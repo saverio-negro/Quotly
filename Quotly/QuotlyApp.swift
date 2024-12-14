@@ -11,7 +11,19 @@ import SwiftUI
 struct QuotlyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabView {
+                Tab("Home", systemImage: "house") {
+                    ContentView()
+                }
+                
+                Tab("Entries", systemImage: "book.pages") {
+                    
+                }
+                
+                Tab("Profile", systemImage: "person") {
+                    
+                }
+            }
         }
     }
 }

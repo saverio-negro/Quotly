@@ -10,10 +10,20 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         NavigationStack {
+            ZStack {
+                Color.darkBackground
+                VStack {
+                    WeekDaysView()
+                }
+                .padding(.horizontal)
+            }
+            .ignoresSafeArea()
+            
             VStack {
                 
             }
             .navigationTitle("Quotly")
+            .preferredColorScheme(.dark)
         }
     }
 }
