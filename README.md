@@ -8,12 +8,12 @@
 
 #### Have you ever felt like wanting to dedicate more of yourself while reading a motivational quote?
 
-### Have you ever felt like reading a quote wasn’t quite enough?
+#### Have you ever felt like reading a quote wasn’t quite enough?
 
-### Every motivational quote mostly stems from a collection of experiences and stories by their authors.
+#### Every motivational quote mostly stems from a collection of experiences and stories by their authors.
 
-### Well, what if you could have a little journal of short but impactful reflections? That’s where Quotly comes in. 
+#### Well, what if you could have a little journal of short but impactful reflections? That’s where Quotly comes in. 
 
-### Quotly is a simple app to help you be present and aware throughout the day while being accompanied by a daily motivational quote to reflect on.
+#### Quotly is a simple app to help you be present and aware throughout the day while being accompanied by a daily motivational quote to reflect on.
 
 
