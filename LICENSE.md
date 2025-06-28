@@ -21,8 +21,7 @@ Under the following terms:
 - No modifications or derivative works
 - No incorporation into other projects (open source or proprietary)
 
-For more information, see the full license text here:  
-<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode">CC BY-NC-ND 4.0 License</a>
+For more information, see the full license text here: <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode">CC BY-NC-ND 4.0 License</a>
 
 ---
 
