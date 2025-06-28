@@ -8,3 +8,6 @@ Quotly is an app I truly hold dear to. It's a tool I heartedly developed to serv
 
 ## Description
 
+## License
+
+This project is <a href="./LICENSE.md">licensed</a> under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
