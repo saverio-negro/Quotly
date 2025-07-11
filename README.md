@@ -1,6 +1,6 @@
 # Quotly
 
-<img src="./Images/quotly-1.png" width="25%" height="25%"/>  <img src="./Images/quotly-2.png" width="25%" height="25%"/>  <img src="./Images/quotly-3.png" width="25%" height="25%"/>
+<img src="./Images/quotly-1.png" width="30%" height="30%"/>  <img src="./Images/quotly-2.png" width="30%" height="30%"/>  <img src="./Images/quotly-3.png" width="30%" height="30%"/>
 
 ## Introduction
 
